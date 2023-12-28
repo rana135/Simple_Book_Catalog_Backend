@@ -19,7 +19,7 @@ To get started, ensure you have Node.js and Yarn installed. Then, follow these s
 # Clone the repository
 
 ```bash
-git clone https://github.com/your-username/simple_book_catalog_backend.git
+git clone https://github.com/rana135/Simple_Book_Catalog_Backend.git
 ```
 
 # Navigate to the project directory
